@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+.sportsName{
+    position: relative;
+    display: block;
+    margin-top: 5em;
+}
+
+.submit{
+    margin-top: 2em;
+}
+

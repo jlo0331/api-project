@@ -10,5 +10,12 @@ h1{
 
 .submit{
     margin-top: 2em;
+    text-align: center;
+    justify-content: center;
+    margin-left: 30em;
+}
+
+.title{
+    text-align: center;
 }
 
